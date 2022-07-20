@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.bunnycodego.bunnytheme.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bunnycodego.bunnytheme.MyBundle
 
 class MyProjectService(project: Project) {
 
